@@ -1,0 +1,44 @@
+
+.question-form-button,.question-form-input{
+  outline-width: 3px;
+    outline-style: outset;
+    outline-color: gray;
+}
+
+.question-form-button{
+  margin-top: 10px;
+  background-color: cadetblue;
+  color: aliceblue;
+  border-radius: 3px;
+}
+  
+  .question-form-label {
+    display: inline-block;
+    margin-top: 10px;
+    width: 70%;
+    vertical-align: top;
+  }
+  
+  .question-form-input {
+    display: inline-block;
+    width: 80%;
+    height: 30px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    border-radius: 3px;
+    
+  }
+  .question-form-form textarea{
+    height: 100px;
+  }
+  
+  .question-closebutton{
+    height: 5px;
+    width: 5px;
+    vertical-align: middle;
+    margin-left: 10px;
+  }
+
+  .question-form-text:hover{
+    background-color: greenyellow;
+  }

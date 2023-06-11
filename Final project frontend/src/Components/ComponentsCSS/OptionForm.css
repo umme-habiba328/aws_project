@@ -1,0 +1,29 @@
+.option-form-button,.option-form-input{
+    outline-width: 3px;
+      outline-style: outset;
+      outline-color: gray;
+  }
+  
+  .option-form-button{
+    margin-top: 10px;
+    background-color: cadetblue;
+    color: aliceblue;
+    border-radius: 3px;
+  }
+    
+    .option-form-label {
+      display: inline-block;
+      margin-top: 10px;
+      width: 70%;
+      vertical-align: top;
+    }
+    
+    .option-form-input {
+      display: inline-block;
+      width: 80%;
+      height: 30px;
+      margin-top: 10px;
+      box-sizing: border-box;
+      border-radius: 3px;
+      
+    }

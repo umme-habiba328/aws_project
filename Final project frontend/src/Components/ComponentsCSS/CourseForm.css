@@ -1,0 +1,22 @@
+.course-form-input{
+    display: inline-block;
+    width: 80%;
+    height: 30px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+.course-form-button{
+    margin-top: 10px;
+    background-color: cadetblue;
+    color: aliceblue;
+    border-radius: 3px;
+  }
+
+  .course-form-label {
+    display: inline-block;
+    margin-top: 10px;
+    width: 70%;
+    vertical-align: top;
+  }

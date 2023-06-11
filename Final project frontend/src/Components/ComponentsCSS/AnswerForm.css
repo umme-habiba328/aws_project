@@ -1,0 +1,18 @@
+.answer-form-radio-button{
+    vertical-align: middle;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.take-quiz-heading{
+    color: red;
+    padding-top: 20px;
+}
+
+.taken-quizinfo-heading{
+    margin-left: 20px;
+}
+
+.answerform-div{
+    margin-top: 20px;
+}

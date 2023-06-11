@@ -1,0 +1,37 @@
+.course-update-div{
+    margin: 0 auto;
+    margin-top: 20px;
+    border: 3px;
+    border-radius: 10px;
+    border: solid;
+    border-color: rgb(189, 176, 176);
+    padding: 20px;
+    width: 50%;
+    background-color: rgb(212, 221, 228);
+    box-shadow: 5px 5px rgb(62, 63, 64);
+    font-family: Helvetica;
+    display: relative;
+}
+
+.course-update-label{
+    display: inline-block;
+    width: 100%;
+    margin-top: 10px;
+    vertical-align: top;
+}
+.course-update-input{
+    display: inline-block;
+    width: 90%;
+    margin-top: 10px;
+    box-shadow: 3px 3px;
+    border-radius: 5px;
+}
+
+.course-update-button{
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    margin-top: 10px;
+    border-radius: 5px;
+
+}
